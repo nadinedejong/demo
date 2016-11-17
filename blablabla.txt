@@ -4,4 +4,6 @@ lala
 
 test conflict hier
 
-nog iets gewijzigd
+dit op de branch
+
+Nog een aanpassing
